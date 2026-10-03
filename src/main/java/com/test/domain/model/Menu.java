@@ -1,4 +1,4 @@
-package com.test.model;
+package com.test.domain.model;
 
 import io.quarkus.hibernate.reactive.panache.PanacheEntity;
 import jakarta.persistence.Entity;

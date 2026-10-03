@@ -1,4 +1,4 @@
-package com.test.model;
+package com.test.domain.model;
 
 /**
  * Days of the week used by the {@link OpeningPeriod} schedule.
