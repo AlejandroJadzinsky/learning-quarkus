@@ -1,0 +1,17 @@
+com/test/domain/package-info.class
+com/test/domain/model/DayOfWeek.class
+com/test/application/services/package-info.class
+com/test/domain/repositories/package-info.class
+com/test/application/controllers/package-info.class
+com/test/infrastructure/package-info.class
+com/test/domain/model/Menu.class
+com/test/infrastructure/addapters/package-info.class
+com/test/domain/model/Meal.class
+com/test/domain/model/package-info.class
+com/test/infrastructure/external/package-info.class
+com/test/infrastructure/config/package-info.class
+com/test/domain/model/MenuItem.class
+com/test/application/package-info.class
+com/test/domain/model/Restaurant.class
+com/test/domain/model/OpeningPeriod.class
+com/test/domain/model/Schedule.class

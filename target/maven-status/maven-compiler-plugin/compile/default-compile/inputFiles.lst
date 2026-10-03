@@ -1,0 +1,17 @@
+/workspace/src/main/java/com/test/application/controllers/package-info.java
+/workspace/src/main/java/com/test/application/package-info.java
+/workspace/src/main/java/com/test/application/services/package-info.java
+/workspace/src/main/java/com/test/domain/model/DayOfWeek.java
+/workspace/src/main/java/com/test/domain/model/Meal.java
+/workspace/src/main/java/com/test/domain/model/Menu.java
+/workspace/src/main/java/com/test/domain/model/MenuItem.java
+/workspace/src/main/java/com/test/domain/model/OpeningPeriod.java
+/workspace/src/main/java/com/test/domain/model/Restaurant.java
+/workspace/src/main/java/com/test/domain/model/Schedule.java
+/workspace/src/main/java/com/test/domain/model/package-info.java
+/workspace/src/main/java/com/test/domain/package-info.java
+/workspace/src/main/java/com/test/domain/repositories/package-info.java
+/workspace/src/main/java/com/test/infrastructure/addapters/package-info.java
+/workspace/src/main/java/com/test/infrastructure/config/package-info.java
+/workspace/src/main/java/com/test/infrastructure/external/package-info.java
+/workspace/src/main/java/com/test/infrastructure/package-info.java
